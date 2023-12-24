@@ -3,6 +3,7 @@
 Hello, I'm J.Himaja, a dedicated enthusiast in the field of Python programming. I recently completed the CodeSoft Internship in the Python programming domain, and I'm excited to share the outcomes of the three engaging tasks that I worked on.
 
 🚀 Projects from CodeSoft:
+
 TO-DO LIST
 Implemented a basic to-do list interface allowing users to input tasks, display them in a list format, and delete tasks from the list as desired so that users can easily add and manage their tasks within this simple application.
 
